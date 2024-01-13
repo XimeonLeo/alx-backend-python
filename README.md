@@ -1,4 +1,2 @@
-# 0x00. Python - Variable Annotations
-## Python
-## Back-end
-
+This repo contains projects on AlX python backend prograamme
+`
