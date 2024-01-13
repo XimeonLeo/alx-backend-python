@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""This module defines a function `make_multiplier`"""
+"""This module defines a function make_multiplier"""
 from typing import Callable
 
 
